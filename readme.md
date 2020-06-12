@@ -12,3 +12,4 @@ This is my link for the repository
 https://dhanya-krishnan2.github.io/time-planner/.
 Here is the output of my day planner
 ![](/2020-06-12%20(2).png)
+![](/2020-06-12.png)
