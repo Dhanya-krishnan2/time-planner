@@ -8,3 +8,5 @@ Then I loop through the time for all the possibilities and if it is arranged the
 Added all the plans in to the local storage and created and array for that.
 used click event by usig jQury to save the plans in a local storage.
 This all the function will execute only when the document is ready and this can be possible by using jQury.
+This is my link for the repository
+https://dhanya-krishnan2.github.io/time-planner/.
